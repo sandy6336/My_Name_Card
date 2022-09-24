@@ -1,0 +1,46 @@
+div#wrapper {
+    background-color: rgba(119, 97, 230, 0.744);
+    box-shadow: 5px 5px 5px rgb(20, 56, 20),5px 5px 5px rgb(235, 78, 78),5px 5px 5px rgb(0, 0, 0);
+    font-family: Georgia;
+    padding: 25px 25px;
+    margin: 11px;
+    margin-top: 50px;
+    width: 300px;
+    border-radius: 5%;
+
+}
+img {
+    border-radius: 50%;
+    max-width: 100%;
+    height: auto;
+}
+.fa-twitter:hover {
+    background-color: rgb(54, 160, 222);
+    border-radius: 50%;
+}
+.fa-instagram:hover {
+    background-color: rgb(151, 36, 143);
+    border-radius: 50%;
+}
+.fa-facebook:hover {
+    background-color: rgb(36, 64, 177);
+    border-radius: 50%;
+
+}
+#wrapper {
+    background-image: linear-gradient(rgb(20, 56, 20), rgb(235, 78, 78),rgb(0, 0, 0));
+}
+.mail {
+    text-decoration: none;
+    color: brown;
+}
+.mail:hover {
+    text-shadow: 5px 5px 5px rgb(193, 53, 130) ;
+}
+
+.copyright {
+    color: azure;
+}
+
+
+
